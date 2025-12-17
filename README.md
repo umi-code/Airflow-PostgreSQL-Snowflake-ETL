@@ -1,0 +1,1 @@
+# An ETL data pipeline project leveraging Apache Airflow DAGs to extract employee data from PostgreSQL schemas, load it into an AWS-based data lake, transform it using Python, and finally ingest it into a Snowflake data warehouse implementing SCD Type 2 for historical data tracking.
